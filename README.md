@@ -4,14 +4,14 @@ Using Arduino IDE, GPIO and Microcontroller Interfacing to create projects for r
 ## Description
 In this repository, I write C++ commands to interface with Arduino Uno Rev3. 
 With GPIO pins, I write 
--> digitalWrite()
--> digitalRead()
--> AnalogRead() (PWM enabled pins and Analog pins) 
+digitalWrite()
+digitalRead()
+AnalogRead() (PWM enabled pins and Analog pins) 
 
 They are used to interface with sensors such as 
--> Stepper, DC, and Servo Motors
--> Ultrasonic Sensors
--> Temperature & Humidity sensors, etc. 
+Stepper, DC, and Servo Motors
+Ultrasonic Sensors
+Temperature & Humidity sensors, etc. 
 
 These sensors either perform an output function or read an external signal.
 
