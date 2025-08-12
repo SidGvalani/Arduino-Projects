@@ -1,0 +1,6 @@
+/*
+Sketch to rotate Stepper motor in clockwise and anticlockwise directions
+
+Connect Stepper Motor Driver
+
+*/
