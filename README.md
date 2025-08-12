@@ -19,4 +19,4 @@ These sensors either perform an output function or read an external signal.
 1) Install the Arduino IDE (https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE)
 2) Clone this Repository
 ```bash
-git clone 
+git clone https://github.com/SidGvalani/Arduino-Projects.git
